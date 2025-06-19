@@ -1,8 +1,9 @@
 🛒 E-commerce Customer Behaviour Analysis
-📑 Project Overview
+
+📑 Project Overview:
 This project focuses on analyzing customer behavior in an e-commerce environment. Using a real-world dataset, we perform data cleaning, exploratory data analysis (EDA), and visualizations to uncover insights into customer demographics, preferences, and purchasing patterns. This can help businesses make data-driven decisions to improve customer experience and boost sales.
 
-📂 Dataset Description
+📂 Dataset Description:
 The dataset contains the following key features:
 
 CustomerID: Unique identifier for each customer
@@ -27,7 +28,7 @@ Loyalty Program: Indicates if the customer is part of a loyalty program
 
 Purchase Intent: Whether the customer intended to purchase
 
-⚙️ Tools and Technologies
+⚙️ Tools and Technologies:
 Python
 
 Jupyter Notebook
@@ -42,7 +43,7 @@ Seaborn
 
 Plotly
 
-🧹 Data Cleaning
+🧹 Data Cleaning:
 Checked for missing values and handled them appropriately
 
 Removed duplicate entries
@@ -51,7 +52,7 @@ Converted data types where necessary
 
 Handled outliers in numerical columns
 
-📊 Exploratory Data Analysis (EDA)
+📊 Exploratory Data Analysis (EDA):
 Several visualizations were created to understand trends and patterns:
 
 Pie Chart – Gender Distribution
@@ -70,7 +71,7 @@ Bar Chart – Marital Status vs Average Purchase Amount
 
 Each chart was analyzed to interpret customer behavior trends and actionable insights.
 
-💡 Key Insights
+💡 Key Insights:
 Female customers showed slightly higher purchase intent than males.
 
 Mobile devices were the most commonly used for shopping.
@@ -81,10 +82,10 @@ Loyalty program members had a significantly higher purchase intent.
 
 Certain product categories were more popular among younger customers.
 
-🧠 Conclusion
+🧠 Conclusion:
 This project helps in understanding how various customer attributes influence their purchasing decisions. These insights can guide personalized marketing strategies, UI/UX improvements, and product placement.
 
-🚀 Future Work
+🚀 Future Work:
 Build predictive models to forecast customer churn
 
 Segment customers using clustering techniques (e.g., K-Means)
@@ -93,7 +94,7 @@ Develop a recommendation system
 
 Perform A/B testing for marketing campaigns
 
-📁 How to Run
+📁 How to Run ?
 Clone the repository or download the .ipynb file.
 
 Open the notebook in Jupyter.
