@@ -92,16 +92,6 @@ Certain product categories were more popular among younger customers.
 
 This project helps in understanding how various customer attributes influence their purchasing decisions. These insights can guide personalized marketing strategies, UI/UX improvements, and product placement.
 
-🚀 Future Work:
-
-Build predictive models to forecast customer churn
-
-Segment customers using clustering techniques (e.g., K-Means)
-
-Develop a recommendation system
-
-Perform A/B testing for marketing campaigns
-
 📁 How to Run ?
 
 Clone the repository or download the .ipynb file.
